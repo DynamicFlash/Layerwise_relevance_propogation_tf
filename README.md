@@ -1,1 +1,4 @@
-# Layerwise_relevance_propogation_tf
+# Layerwise Relevance Propogation
+using Tensorflow
+
+This is based on the pytorch implementation at https://git.tu-berlin.de/gmontavon/lrp-tutorial
